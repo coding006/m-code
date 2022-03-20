@@ -86,12 +86,14 @@ apt install -y linux-headers-$(uname -r)
   - Shadowsocks-R           : 1443-1543
   - SS-OBFS TLS             : 2443-2543
   - SS-OBFS HTTP            : 3443-3543
-  - XRAY Vmess Ws TLS       : 443
-  - XRAY Vless Ws TLS       : 443
-  - XRAY Vless Tcp XTLS     : 443
-  - XRAY Vmess Ws None TLS  : 80
-  - XRAY Vless Ws None TLS  : 8080
-  - XRAY Trojan TCP TLS     : 443
+  - XRAY Vmess Ws Tls       : 443
+  - XRAY Vless Ws Tls       : 443
+  - XRAY Vless Tcp Xtls     : 443
+  - XRAY Trojan TCP Tls     : 443
+  - XRAY Vmess Ws None Tls  : 80
+  - XRAY Vless Ws None Tls  : 8080
+  - Trojan Go               : 2083
+
  >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
    - Fail2Ban                 : [ON]
