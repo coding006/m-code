@@ -54,7 +54,7 @@ apt install -y linux-headers-$(uname -r)
 
  ## Main Menu
  
-![IMG_20220217_123305](https://user-images.githubusercontent.com/96321013/154405887-dd01c178-e235-4bf7-990e-4a7ef601d6c0.jpg)
+![IMG_20220321_093514](https://user-images.githubusercontent.com/96321013/159195579-67df9a75-b4cc-45eb-9cf5-433965f069ed.jpg)
 
   ## Status Running
  
