@@ -88,7 +88,7 @@ apt install -y linux-headers-$(uname -r)
   - XRAY Vmess Ws Tls       : 443
   - XRAY Vless Ws Tls       : 443
   - XRAY Vless Tcp Xtls     : 443
-  - XRAY Trojan TCP Tls     : 443
+  - XRAY Trojan Tcp Tls     : 443
   - XRAY Vmess Ws None Tls  : 80
   - XRAY Vless Ws None Tls  : 8080
   - Trojan Go               : 2083
